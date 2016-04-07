@@ -1,6 +1,5 @@
 # BTM-Java
-A java implement of Biterm Topic Model
-The origin BTM is in here: https://github.com/xiaohuiyan/BTM
+A java implement of Biterm Topic Model.  The origin BTM is in here: https://github.com/xiaohuiyan/BTM
 Usage:
 ========
 ```java BTM [data_path] [topic_num] [alpha] [beta] [iter_num] [instance_num]```
